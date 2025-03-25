@@ -19,7 +19,7 @@ This repository outlines ways of improving society
 Some topics inspired by Heresy Financial
 - Reallocating fed govt budget to needs based instead of age based
 - Bring the military home
-- End the Federal Reserve (central Bank)
+- End the Federal Reserve (central bank) and instead have more distributed banks
 - Change the way wealth is distributed
 - Revised legislation and taxes on corporations and the very wealthy 
 
