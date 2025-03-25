@@ -25,7 +25,7 @@ Some topics inspired by Heresy Financial
 - reset the whole thing
 
 ## Universal basic income (UBI)
-Inspired by Andrew Yang
+- Inspired by Andrew Yang
 
 ## Accountability and Responsibility
 Some topics inspired by Andrew Tate
