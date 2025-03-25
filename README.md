@@ -8,6 +8,7 @@ This repository outlines ways of improving society
   2) implement green spaces
   3) facilitate discussions on certain topics
   4) create clubs to engage with people
+  5) start a tour group to highlight positives of your town/city
 - donate money, food, time, etc to those who need those resources
 - set aside our differences
 - work together to solve societies' problems (produce open source software and democratize technology)
