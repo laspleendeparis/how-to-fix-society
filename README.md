@@ -4,6 +4,10 @@ This repository outlines ways of improving society
 ## Bottom Up Approach
 (start with the individual - family/community - society)
 - look outside yourself to your communities (inspired by 99% perspiration talk)
+  1) implement lending libraries
+  2) implement green spaces
+  3) facilitate discussions on certain topics
+  4) create clubs to engage with people
 - donate money, food, time, etc to those who need those resources
 - set aside our differences
 - work together to solve societies' problems (produce open source software and democratize technology)
