@@ -22,7 +22,7 @@ Some topics inspired by Heresy Financial
 - Revised legislation and taxes on corporations and the very wealthy 
 
 ## The anarchy route
-- reset the whole thing
+- scrap the current system and rebuild from the ground up
 
 ## Universal basic income (UBI)
 - Inspired by Andrew Yang
@@ -31,7 +31,8 @@ Some topics inspired by Heresy Financial
 Some topics inspired by Andrew Tate
 - Address issues of mental health and access to guns
 - Parents need to parent and have a sense of honor and accountability
-- Buildings have a generic look and feel, everything is the same and lacks character, no one feels attached to their environment
-- Difficulty and beauty are linked, beauty traits are unique
-- People don't try, accept that they are wage slaves, and criticize those who do try
+- No one feels attached to their environment due to generic buildings and uninspired city design
+- Maintain a fit and healthy body
+- People need to make an effort to change
+- Hold people accountable for their actions
 - Raise the next generation with good moral and ethical values
