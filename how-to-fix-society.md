@@ -34,6 +34,7 @@ Some topics inspired by Heresy Financial
 - Bring the military home; if more countries are peaceful, there would be less need for military force
 - Replace and/or augment the Federal Reserve (central bank) with decentralized banks
 - Establish digital resources (note: not currency) for trade and commerce (inspired by Planet Nine)
+  (Although in a post-scarcity society, there would be no need for a currency)
 - Change the way wealth is distributed
 - Revise legislation and modify tax structures on corporations and the very wealthy (instead of increasing shareholder value, focus on society best practices)
 
