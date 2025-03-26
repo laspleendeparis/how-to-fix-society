@@ -5,3 +5,4 @@
 5) Learn to rely on your team members - collaborative effort: if you see that they have less tasks assigned to them, have them be the point of contact for the task (after all, they are asking YOU for something); that way, they can do what they can and then ask you to fill in the gaps
 6) And of course, if a task is very complicated to complete, apply the MVP method: what is the minimum amount required to complete the task? Then iteratively update the artifact or improve on the task
 7) If you are burnt out, cover for each other (shift work mentality): take some PTO, spend some time with friends and/or family, go out for a coffee; the work is always going to be there (or maybe someone decides it's not needed anymore) but your friends and family won't always be around
+8) If there are too many tasks to do and fires to put out, and not enough resources to handle the things, let the ship sink. It was doomed to fail as management did not do their job properly.
