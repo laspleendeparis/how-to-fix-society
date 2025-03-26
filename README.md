@@ -8,7 +8,9 @@
 
 **Time commitment required:** Varies on level of interest
 
-**Tech stack:** Markup language
+**Tech stack:**
+- Markup language
+- Varies across Planet Nine protocols
 
 **Skills learned:**
 - Collaborative storytelling
