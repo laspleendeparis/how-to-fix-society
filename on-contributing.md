@@ -8,8 +8,8 @@ And even if there was the perfect standard for collaboration, there are also the
 For the motivation piece, maybe things need to be spruced up with some lore to increase engagement.
 For time commitment, there are many external factors that compete for time.
 
-Also, the development of a curriculum is time consuming and may not pique people's interest.
-So to get ideas for curriculums, one can join Discord groups, or trawl through GitHub for repositories with more recent commits (indicating that it is still active).
+Also, the development of a curriculum/project specification is time consuming and may not pique people's interest.
+So to get ideas, one can join Discord groups, or trawl through GitHub for repositories with more recent commits (indicating that it is still active).
 
 But if nothing piques your interest, and you're still wanting to mentor people, think of a small idea that is easily doable within a couple weeks.
 That way, it has relatively low time commitment, and if it fails to launch, no big deal.
