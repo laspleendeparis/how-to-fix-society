@@ -31,3 +31,7 @@
 
 **Additional Fours**:
 - TBD
+
+**Appendix:**
+Start reading about Planet Nine here:
+https://github.com/planet-nine-app/planet-nine
