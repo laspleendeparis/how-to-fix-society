@@ -4,7 +4,7 @@
 
 **Mission statement:** The purpose of this app is to create a collaborative environment.
 
-**Level of experience required:** All fours welcome!
+**Level of experience required:** All Fours welcome!
 
 **Time commitment required:** Varies on level of interest
 
@@ -25,5 +25,5 @@
 - Consider splitting context.md into separate pages with a footer that has previous and next page functionality
 - Create high level architecture diagrams of Planet Nine
 
-**Additional fours**:
+**Additional Fours**:
 - TBD
