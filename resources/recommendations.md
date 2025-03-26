@@ -9,3 +9,6 @@
 
 ## Shows related to uploaded consciousness
 - Travelers
+
+## Shows related to sci-fi crime fighting
+- The Umbrella Academy
