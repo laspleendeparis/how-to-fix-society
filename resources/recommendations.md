@@ -3,6 +3,7 @@
 ## Shows related to digital identities and virtual worlds
 - Pantheon
 - Upload
+- Serial Experiments Lain
 
 ## Shows related to time travel
 - Loki
