@@ -1,4 +1,4 @@
-(Before getting started on this journey, I will leave it up to our weary traveler that there will be things that are real and things that are surreal.)
+(Before getting started on this journey, I will leave it up to our weary traveler to decide on the things that are real and things that are surreal.)
 
 For context about how this all came about, amidst all the turmoil in the world, I was inspired by a social media post about building a community and then working together to solve societies' biggest problems.
 
