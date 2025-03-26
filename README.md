@@ -21,6 +21,7 @@
 **Additional details:** Feel free to extend the Planet Nine lore or create other collaborative stories.
 
 **Additional features to implement:**
+- Organize this repository's files
 - Create high level architecture diagrams of Planet Nine
 
 **Additional fours**:
