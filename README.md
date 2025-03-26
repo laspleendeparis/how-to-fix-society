@@ -45,3 +45,7 @@ Feel free to do one or more of the following:
 
 ## Start reading about Planet Nine
 https://github.com/planet-nine-app/planet-nine
+
+## Alternative working titles
+- The MVP approach to life, the universe, and everything
+  (What is the minimum amount of effort required to achieve a goal?)
