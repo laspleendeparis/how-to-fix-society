@@ -15,3 +15,7 @@
 
 ## Shows related to alternate realities
 - Stranger Things
+
+## Shows related to cyberpunk setting
+- Arcane
+- Cyberpunk Edgerunners
