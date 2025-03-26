@@ -8,3 +8,5 @@ I am merely a conduit and aggregator of all the things in the world that could p
 The social media post lead to a voice/chat server group where a bunch of people were hanging around and weren't interacting with each other that much. Somehow, I got in contact with the server owner, and got to introducing ourselves. They explained their motivation for getting a bunch of coders together to solve the problems in the world. That message resonated with me and the server owner granted  moderator privileges to the server.
 
 Somehow in a short time period, there were many people that joined the server, and through a whirlwind of events and a connection from a member that spanned two server groups, I came to know about Planet Nine and also about the idea of Open Source.
+
+While in this server group, there happened to be a celebration live call of the wiki's 30th birthday. It was there that I was reminded that there is in fact a community that champions collaboration and the democratization of knowledge. And that got me to thinking, how do we get people motivated to create open source things? And that became the birth of the Project Collaborative Framework.
