@@ -1,4 +1,4 @@
-## Project Collaboration Framework Project Specifications
+## Project Specifications
 
 **Project overseer(s):** @jwq10101010
 
