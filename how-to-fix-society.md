@@ -9,27 +9,15 @@ This repository outlines ways of improving society
   3) facilitate discussions on certain topics
   4) create clubs to engage with people
   5) start a tour group to highlight positives of your town/city
+  6) collaborate with local businesses to create unique experiences
+  7) design walkable, sustainable cities; design around the people, not the transportation
 - donate money, food, time, etc to those who need those resources
 - set aside our differences
-- work together to solve societies' problems (produce open source software and democratize technology)
+- work together to solve societies' problems
+- produce open source software and democratize technology
 - work towards a post-scarcity society
 
-## Top down approach
-(from govt and financial institutions to individuals)
-Some topics inspired by Heresy Financial
-- Reallocating fed govt budget to needs based instead of age based
-- Bring the military home
-- End the Federal Reserve (central bank) and instead have more distributed banks
-- Change the way wealth is distributed
-- Revised legislation and taxes on corporations and the very wealthy 
-
-## The anarchy route
-- scrap the current system and rebuild from the ground up
-
-## Universal basic income (UBI)
-- Inspired by Andrew Yang
-
-## Accountability and Responsibility
+# Accountability and Responsibility
 Some topics inspired by Andrew Tate
 - Address issues of mental health and access to guns
 - Parents need to parent and have a sense of honor and accountability
@@ -39,4 +27,22 @@ Some topics inspired by Andrew Tate
 - Hold people accountable for their actions
 - Raise the next generation with good moral and ethical values
 
-## Contribute to Planet Nine
+## Top down approach
+(from govt and financial institutions to individuals)
+Some topics inspired by Heresy Financial
+- Reallocating the federal government budget to needs-based instead of age-based
+- Bring the military home; if more countries are peaceful, there would be less need for military force
+- Replace and/or augment the Federal Reserve (central bank) with decentralized banks
+- Establish digital resources (note: not currency) for trade and commerce (inspired by Planet Nine)
+- Change the way wealth is distributed
+- Revise legislation and modify tax structures on corporations and the very wealthy (instead of increasing shareholder value, focus on society best practices)
+
+## The anarchy route
+- scrap the current system and rebuild from the ground up
+
+## Universal basic income (UBI)
+- Inspired by Andrew Yang
+
+
+
+
