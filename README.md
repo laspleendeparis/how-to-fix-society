@@ -1,6 +1,6 @@
 ## Project Collaboration Framework
 
-**Project overseer(s):** @jdq10101010
+**Project overseer(s):** @jwq10101010
 
 **Mission statement:** The purpose of this app is to create a collaborative environment.
 
