@@ -49,3 +49,4 @@ https://github.com/planet-nine-app/planet-nine
 ## Alternative working titles
 - The MVP approach to life, the universe, and everything
   (What is the minimum amount of effort required to achieve a goal?)
+  Or, for the lore-builders, What is the minimum amount of effort required to achieve singularity?
