@@ -6,3 +6,6 @@
 
 ## Shows related to time travel
 - Loki
+
+## Shows related to uploaded consciousness
+- Travelers
