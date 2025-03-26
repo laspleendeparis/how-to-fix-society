@@ -17,7 +17,7 @@ This repository outlines ways of improving society
 - produce open source software and democratize technology
 - work towards a post-scarcity society
 
-# Accountability and Responsibility
+### Accountability and Responsibility
 Some topics inspired by Andrew Tate
 - Address issues of mental health and access to guns
 - Parents need to parent and have a sense of honor and accountability
