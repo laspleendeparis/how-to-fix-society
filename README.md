@@ -33,6 +33,7 @@ Feel free to do one or more of the following:
 - create other collaborative stories utilizing GitHub or other platform
 - contribute to the Planet Nine initiative
 - get started on an open source project tackling one of societies' problems
+- create an open source project and make some friends along the way
 
 **Additional features to implement:**
 - Provide additional context
