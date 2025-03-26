@@ -1,1 +1,1 @@
-For context about how this all came about, amidst all the turmoil in the world, I was inspired by a Reddit post about building a community and then working together to solve societies' biggest problems.
+For context about how this all came about, amidst all the turmoil in the world, I was inspired by a social media post about building a community and then working together to solve societies' biggest problems.
