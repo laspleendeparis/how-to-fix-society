@@ -19,3 +19,6 @@
 ## Shows related to cyberpunk setting
 - Arcane
 - Cyberpunk Edgerunners
+
+## Shows related to androids
+- Westworld
