@@ -21,6 +21,7 @@
 **Additional details:** Feel free to extend the Planet Nine lore or create other collaborative stories.
 
 **Additional features to implement:**
+- Provide additional context
 - Organize this repository's files
 - Consider splitting context.md into separate pages with a footer that has previous and next page functionality
 - Create high level architecture diagrams of Planet Nine
