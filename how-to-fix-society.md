@@ -41,5 +41,5 @@ Some topics inspired by Heresy Financial
 ## Universal basic income (UBI)
 - Inspired by Andrew Yang
 
-## The anarchy route
+## The nuclear route
 - scrap the current system and rebuild from the ground up
