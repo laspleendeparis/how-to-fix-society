@@ -21,7 +21,7 @@
 
 **MVP:** Create initial how-to-fix-society.md, context.md, and inspiration.md
 
-**Additional details:** Feel free to extend the Planet Nine lore or create other collaborative stories.
+**Additional details:** Feel free to extend the Planet Nine lore, create other collaborative stories, or contribute to the Planet Nine initiative.
 
 **Additional features to implement:**
 - Provide additional context
