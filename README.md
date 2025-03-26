@@ -12,6 +12,7 @@
 
 **Skills learned:**
 - Collaborative storytelling
+- Git repository management
 - Systems architecture design
 - Distributed computing
 - Authentication protocols
