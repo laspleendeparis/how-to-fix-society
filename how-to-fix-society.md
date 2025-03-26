@@ -38,3 +38,5 @@ Some topics inspired by Andrew Tate
 - People need to make an effort to change
 - Hold people accountable for their actions
 - Raise the next generation with good moral and ethical values
+
+## Contribute to Planet Nine
