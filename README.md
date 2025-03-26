@@ -2,7 +2,7 @@
 
 **Project overseer(s):** @jwq10101010
 
-**Mission statement:** The purpose of this app is to create a collaborative environment.
+**Mission statement:** The purpose of this project is to create a collaborative environment.
 
 **Level of experience required:** All Fours welcome!
 
@@ -11,6 +11,7 @@
 **Tech stack:**
 - Markup language
 - Varies across Planet Nine protocols
+- Varies across open source projects
 
 **Skills learned:**
 - Collaborative storytelling
@@ -21,7 +22,7 @@
 
 **MVP:** Create initial how-to-fix-society.md, context.md, and inspiration.md
 
-**Additional details:** Feel free to extend the Planet Nine lore, create other collaborative stories, or contribute to the Planet Nine initiative.
+**Additional details:** Feel free to extend the Planet Nine lore, create other collaborative stories, contribute to the Planet Nine initiative, or get started on an open source project tackling one of societies' problems.
 
 **Additional features to implement:**
 - Provide additional context
