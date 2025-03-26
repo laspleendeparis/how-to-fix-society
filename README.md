@@ -1,3 +1,7 @@
+## Project Collaboration Framework
+The below project specifications section is sourced from:
+https://github.com/jwq10101010/project-collaboration-framework
+
 ## Project Specifications
 
 **Project overseer(s):** @jwq10101010
