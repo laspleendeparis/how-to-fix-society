@@ -26,7 +26,7 @@
 Feel free to do one or more of the following:
 - suggest other ways of fixing society in how-to-fix-society.md
 - extend the Planet Nine lore
-- create other collaborative stories
+- create other collaborative stories utilizing GitHub or other platform
 - contribute to the Planet Nine initiative
 - get started on an open source project tackling one of societies' problems
 
