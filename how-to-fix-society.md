@@ -37,12 +37,8 @@ Some topics inspired by Heresy Financial
 - Change the way wealth is distributed
 - Revise legislation and modify tax structures on corporations and the very wealthy (instead of increasing shareholder value, focus on society best practices)
 
-## The anarchy route
-- scrap the current system and rebuild from the ground up
-
 ## Universal basic income (UBI)
 - Inspired by Andrew Yang
 
-
-
-
+## The anarchy route
+- scrap the current system and rebuild from the ground up
