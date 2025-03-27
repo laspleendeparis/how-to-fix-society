@@ -1,32 +1,34 @@
 # Recommendations for world-building inspiration
 
-## Shows related to digital identities and virtual worlds
+## Media related to digital identities and virtual worlds
 - Pantheon
 - Upload
 - Serial Experiments Lain
 
-## Shows related to time travel
+## Media related to time travel
 - Loki
 
-## Shows related to uploaded consciousness
+## Media related to uploaded consciousness
 - Travelers
 
-## Shows related to sci-fi crime fighting
+## Media related to sci-fi crime fighting
 - The Umbrella Academy
 
-## Shows related to alternate realities
+## Media related to alternate realities
 - Stranger Things
+- Steins;Gate
+- The Melancholy of Haruhi Suzumiya
 
-## Shows related to cyberpunk setting
+## Media related to cyberpunk setting
 - Arcane
 - Cyberpunk Edgerunners
 - Psycho-Pass
 
-## Shows related to androids
+## Media related to androids
 - Westworld
 
-## Shows related to world-building
+## Media related to world-building
 - Mythic Quest
 
-## Books
+## Media related to extraterrestrial life
 - Hitchhiker's Guide to the Galaxy
