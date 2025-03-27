@@ -2,7 +2,7 @@
 The below project specifications section is sourced from:
 https://github.com/jwq10101010/project-collaboration-framework
 
-Feel free to tweak the PCF to fit your project (it is designed to modular and scalable), or use a different method entirely (not all use cases require a formal definition)
+Feel free to tweak the PCF to fit your project (it is designed to be modular and scalable), or use a different method entirely (not all use cases require a formal definition)
 
 ## Project Specifications
 
