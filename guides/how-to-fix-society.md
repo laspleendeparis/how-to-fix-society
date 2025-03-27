@@ -18,6 +18,12 @@ This repository outlines ways of improving society
 - produce open source software and democratize technology
 - work towards a post-scarcity society
 
+## Start your own business
+- Come up with a good/product/service that your local community needs. 
+
+## Support local businesses
+- Buy from and invest in local businesses.
+
 ### Accountability and Responsibility
 Some topics inspired by Andrew Tate
 - Address issues of mental health and access to guns
