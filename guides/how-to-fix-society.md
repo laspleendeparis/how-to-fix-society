@@ -48,5 +48,11 @@ Some topics inspired by Heresy Financial
 ### Universal basic income (UBI)
 - Inspired by Andrew Yang
 
+### Establish cooperative businesses
+- Business or organization owned by and operated for the benefit of its members
+  
+### Provide public utilities
+- Local provider of public infrastructure including water, gas, electricity, and other natural resources
+  
 ### The nuclear route
 - scrap the current system and rebuild from the ground up
