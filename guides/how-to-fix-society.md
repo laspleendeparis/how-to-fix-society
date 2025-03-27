@@ -35,7 +35,7 @@ Some topics inspired by Andrew Tate
 - Buy from and invest in local businesses.
 
 ## Top down approach
-(from govt and financial institutions to individuals)
+(from govt, corporations, and financial institutions to individuals)
 Some topics inspired by Heresy Financial
 - Reallocating the federal government budget to needs-based instead of age-based
 - Bring the military home; if more countries are peaceful, there would be less need for military force
