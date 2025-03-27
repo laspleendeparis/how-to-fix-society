@@ -29,15 +29,17 @@ https://github.com/jwq10101010/project-collaboration-framework
 **Additional details:**
 Feel free to do one or more of the following:
 - suggest other ways of fixing society in how-to-fix-society.md
-- extend the Planet Nine lore
+- provide other guides and recommendations for knowledge sharing
 - create other collaborative stories utilizing GitHub or other platform
-- contribute to the Planet Nine initiative
-- get started on an open source project tackling one of societies' problems
 - create an open source project and make some friends along the way
+- extend the Planet Nine lore
+- contribute to the Planet Nine initiative
+
 
 **Additional features to implement:**
 - [x] Provide additional context
 - [x] Organize this repository's files
+- [ ] Continue with guides and recommendations
 
 **Additional Fours**:
 - TBD
