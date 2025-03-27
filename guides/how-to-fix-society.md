@@ -16,7 +16,7 @@ This repository outlines ways of improving society
 - set aside our differences
 - work together to solve societies' problems
 - produce open source software and democratize technology (it's a collective effort, we're all on the same team)
-- work towards a post-scarcity society
+- work towards a post-scarcity society (let's tackle the biggest problems in society together)
 
 ### Accountability and Responsibility
 Some topics inspired by Andrew Tate
