@@ -11,7 +11,7 @@ This repository outlines ways of improving society
   5) start a tour group to highlight positives of your town/city
   6) collaborate with local businesses to create unique experiences
   7) design walkable, sustainable cities; design around the people, not the transportation
-  8) facilitate forums to get feedback from the community (inspired by Adam Conover's Trans Comedians podcast episode)
+  8) provide established platforms (social media, podcasts, etc) to get feedback from the community (inspired by Adam Conover's Trans Comedians podcast episode)
 - donate money, food, time, etc to those who need those resources
 - set aside our differences
 - work together to solve societies' problems
