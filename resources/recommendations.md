@@ -20,6 +20,7 @@
 ## Shows related to cyberpunk setting
 - Arcane
 - Cyberpunk Edgerunners
+- Psycho-Pass
 
 ## Shows related to androids
 - Westworld
