@@ -12,10 +12,10 @@ https://en.wikipedia.org/wiki/Comparison_of_programming_languages
 ## Wiki Communities
 
 ### Federated Wiki
-http://fed.wiki.org/
+http://fed.wiki.org
 
 ### TiddlyWiki
-https://tiddlywiki.com/
+https://tiddlywiki.com
 
 ### Hitch Wiki
-https://hitchwiki.com/
+https://hitchwiki.org
