@@ -20,4 +20,7 @@ Just because a standard/framework was created, it is pretty useless unless peopl
 Like other frameworks, it is designed to start up a project as seamless as possible. We don't want to have to worry about what information/project specifications/boilerplate stuff to include when requesting others to collaborate on our project. Also, with frameworks, you can use as little or as much as you need based on your use case (modular design). The PCF can also scale up and down based on the number of groups involved.
 
 ## And now we get to the crux of the matter
-So now we have established that wikis and version control systems allow us to collaborate all across the world. That sounds great! But why would we want to collect all this knowledge? Sort of like building a digital library of Alexandria from the ancient times. A couple reasons could be that other civilizations out there are looking to see if we pose a threat to their civilizations (the hostile approach) or looking to see if we are advanced enough to help them take on a bigger threat (Andromeda if you've been following the Planet Nine lore).
+So now we have established that wikis and version control systems allow us to collaborate all across the world. That sounds great! But why would we want to collect all this knowledge? Sort of like building a digital library of Alexandria from the ancient times. A couple reasons could be that other civilizations out there are looking to see if we pose a threat to their civilizations (the hostile approach) or looking to see if we are advanced enough to help them take on a bigger threat (Andromeda if you've been following the Planet Nine lore). So let's figure out how to get on their good side.
+
+## Federated Wikis + Open Source Auth Protocol = World Peace?
+
