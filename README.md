@@ -48,7 +48,7 @@ Feel free to do one or more of the following:
 - [ ] Continue with guides and recommendations
 
 **Additional Fours**:
-- TBD
+- @laspleendeparis
 
 ## Start reading about Planet Nine
 https://github.com/planet-nine-app/planet-nine
