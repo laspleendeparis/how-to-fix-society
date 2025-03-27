@@ -36,10 +36,8 @@ Feel free to do one or more of the following:
 - create an open source project and make some friends along the way
 
 **Additional features to implement:**
-- Provide additional context
-- Organize this repository's files
-- Consider splitting context.md into separate pages with a footer that has previous and next page functionality
-- Create high level architecture diagrams of Planet Nine
+- [x] Provide additional context
+- [x] Organize this repository's files
 
 **Additional Fours**:
 - TBD
