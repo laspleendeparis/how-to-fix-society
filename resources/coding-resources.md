@@ -16,3 +16,18 @@ https://roadmap.sh
 
 **Free online resources**
 https://skillcrush.com/blog/64-online-resources-to-learn-to-code-for-free
+
+## Authentication
+
+**Session/token based authentication**
+https://www.geeksforgeeks.org/session-vs-token-based-authentication
+
+## Networking concepts
+
+**Routing**
+https://www.geeksforgeeks.org/what-is-routing
+
+## System Design
+
+**State management**
+https://www.geeksforgeeks.org/handling-state-and-state-management-system-design
