@@ -31,3 +31,6 @@ https://www.geeksforgeeks.org/what-is-routing
 
 **State management**
 https://www.geeksforgeeks.org/handling-state-and-state-management-system-design
+
+**Multi-rooted hierarchical tree**
+https://www.researchgate.net/figure/A-common-multi-rooted-hierarchical-tree_fig1_220832000
