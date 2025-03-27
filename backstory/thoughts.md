@@ -10,5 +10,8 @@ https://www.tandfonline.com/doi/full/10.1080/15512169.2016.1192410
 Hitchhiker's guide to Python
 https://docs.python-guide.org
 
+Hitchhiker's guide - anonymous planet
+https://anonymousplanet.org
+
 ## Further considerations
 - Move content over to a wiki community for easier collaboration
