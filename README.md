@@ -55,7 +55,7 @@ https://github.com/planet-nine-app/planet-nine
   (What is the minimum amount of effort required to achieve a goal?)
 - Or, for the lore-builders:
   (What is the minimum amount of effort required to achieve singularity?)
-- Another alternative title, where my fellow Fours at? Let's collab!
+- Another alternative title, where my fellow Fours at? Let's collab! We've got a lot of work to do.
 
 ## Appendix
 - MVP = Minimum Viable Product
