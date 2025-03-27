@@ -1,3 +1,6 @@
+# How to fix society
+A non-judgmental, non-partisan journey that combines lore, ideas, and programming concepts to engage with open source communities.
+
 ## Project Collaboration Framework (PCF)
 The below project specifications section is sourced from:
 https://github.com/jwq10101010/project-collaboration-framework
