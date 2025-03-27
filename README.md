@@ -1,6 +1,8 @@
-## Project Collaboration Framework
+## Project Collaboration Framework (PCF)
 The below project specifications section is sourced from:
 https://github.com/jwq10101010/project-collaboration-framework
+
+Feel free to tweak the PCF to fit your project, or use a different method entirely (not all use cases require a formal definition)
 
 ## Project Specifications
 
