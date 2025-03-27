@@ -36,7 +36,7 @@ Feel free to do one or more of the following:
 - create an open source project and make some friends along the way
 - extend the Planet Nine lore
 - contribute to the Planet Nine initiative
-- contribute content to a wiki community
+- collaborate with a wiki community (there is already existing information out there)
 
 
 **Additional features to implement:**
