@@ -44,3 +44,15 @@ Some topics inspired by Heresy Financial
 
 ### The nuclear route
 - scrap the current system and rebuild from the ground up
+
+## Start Your Own Business
+
+40% of the world economy relies on just 68 companies. Most of these monopolies dominate an entire industry. Monopolies limit consumer choice. Without competition, consumers are forced to accept products and services that don't fully meet their needs. Monopolies stifle innovation by being complacent. Why risk disrupting their existing revenue stream when they're already in control of the market?
+
+![food-monopoly](https://i.imgur.com/cP3BMZi.jpeg)
+
+Consumers demand more options for software, computer systems, and engineering solutions. Very few companies can manufacture AI chips, yet these chips are at the center of an arms race. Many consumers want more progress in STEM R&D to solve their problems, such as self-driving taxis to alleviate the inconveniences of driving. Enterprise customers demand better advertising technology. Software engineers have the skills to challenge monopoly dominance should they choose to start their own company.
+
+### Support Small Businesses
+
+Buy from small businesses. Invest in small businesses.
