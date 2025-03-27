@@ -3,6 +3,7 @@
 - when an inflection point happens, there may be some effect like losing Internet connection briefly, hearing strange humming noises, or flickering lights
 - I hear there's talks of creating a hitchhiker's guide so maybe this repository could be hitchhiker's guide to project collaboration
 - Have to start thinking about how to collaborate with extraterrestrials
+- https://www.tandfonline.com/doi/full/10.1080/15512169.2016.1192410
 
 ## Further considerations
 - Move content over to a wiki community for easier collaboration
