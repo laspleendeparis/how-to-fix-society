@@ -15,7 +15,7 @@ This repository outlines ways of improving society
 - donate money, food, time, etc to those who need those resources
 - set aside our differences
 - work together to solve societies' problems
-- produce open source software and democratize technology
+- produce open source software and democratize technology (it's a collective effort, we're all on the same team)
 - work towards a post-scarcity society
 
 ### Accountability and Responsibility
