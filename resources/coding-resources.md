@@ -9,13 +9,10 @@ https://en.wikipedia.org/wiki/Systems_development_life_cycle
 **Comparison of programming languages**
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages
 
-## Wiki Communities
+## Getting Started
 
-### Federated Wiki
-http://fed.wiki.org
+**Developer roadmaps**
+https://roadmap.sh
 
-### TiddlyWiki
-https://tiddlywiki.com
-
-### Hitch Wiki
-https://hitchwiki.org
+**Free online resources**
+https://skillcrush.com/blog/64-online-resources-to-learn-to-code-for-free
