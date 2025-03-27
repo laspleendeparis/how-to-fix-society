@@ -4,6 +4,8 @@
 - I hear there's talks of creating a hitchhiker's guide so maybe this repository could be hitchhiker's guide to project collaboration
 - Have to start thinking about how to collaborate with extraterrestrials
 
+**Candidates for including in the overall Hitchhiker's Guide**
+
 Hitchhiker's guide to democracy
 https://www.tandfonline.com/doi/full/10.1080/15512169.2016.1192410
 
