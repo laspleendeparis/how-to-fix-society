@@ -25,7 +25,7 @@ Feel free to tweak the PCF to fit your project (it is designed to be modular and
 
 The core idea is around the MVP, which is the minimum amount needed to launch a project or reach a goal.
 
-## Project Specifications
+## Project Specifications (for the underlying how-to-fix-society repository)
 
 **Project overseer(s):** @jwq10101010
 
