@@ -16,4 +16,4 @@ https://anonymousplanet.org
 
 ## Further considerations
 - Move content over to a wiki community for easier collaboration
-- How to market the idea of open source communities and collaborative efforts - introduce popular culture element such as Hitchhiker's guide
+- How to market the idea of open source communities and collaborative efforts - introduce popular culture element such as Hitchhiker's guide just like Marvel has the multiverse and all the conundrums/possibilities associated with it
