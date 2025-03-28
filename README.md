@@ -1,6 +1,10 @@
 # How to fix society
 A non-judgmental, non-partisan journey that combines lore, ideas, and programming concepts to engage with open source communities.
 
+## Ways to contribute
+Head on over to the how-to-fix-society site
+https://github.com/jwq10101010/how-to-fix-society/blob/main/guides/how-to-fix-society.md
+
 ## Project Collaboration Framework (PCF)
 The below project specifications section is sourced from:
 https://github.com/jwq10101010/project-collaboration-framework
