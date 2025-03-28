@@ -57,3 +57,8 @@ https://globalmentorship.org/companies/microsoft
 
 **Apple**
 https://apple.chronus.com
+
+## Cloud Resources
+
+**Free-tier comparison**
+https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison
