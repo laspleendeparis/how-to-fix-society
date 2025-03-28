@@ -8,4 +8,4 @@
 - beautiful landscapes (other civilizations might be wastelands)
 - natural resources (other civilizations might be running out)
 - historical significance (other civilizations might not have such rich histories)
-- diversity of life that can be studied
+- diversity of life that can be studied (academic curiousity)
