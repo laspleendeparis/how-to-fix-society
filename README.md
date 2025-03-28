@@ -5,7 +5,7 @@ A non-judgmental, non-partisan journey that combines lore, ideas, and programmin
 For those looking to contribute to fixing society
 https://github.com/jwq10101010/how-to-fix-society/blob/main/guides/how-to-fix-society.md
 
-## Coding Resources
+## Coding resources
 For those who need some guidance on their development journey
 https://github.com/jwq10101010/how-to-fix-society/blob/main/resources/coding-resources.md
 
