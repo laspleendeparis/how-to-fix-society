@@ -1,4 +1,4 @@
-## In-Person events and opportunities
+## In-person events and opportunities
 
 Feel free to start up your own in-person event if there are none available near you. Below are some example(s) for inspiration:
 
