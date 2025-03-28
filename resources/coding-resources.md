@@ -8,7 +8,7 @@ The [Recurse Center](https://www.recurse.com/) is a self-directed educational re
 
 [Alumnus Greg Brockman (Summer 2 2015) shares his enthusiasm for the Recurse Center](https://blog.gregbrockman.com/recurse-center) and encourages programmers to [apply](https://www.recurse.com/apply). They can benefit from focused learning and collaborative coding.
 
-## Wikipedia Articles
+## Wikipedia articles
 
 **Software project management**
 https://en.wikipedia.org/wiki/Software_project_management
@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/Systems_development_life_cycle
 **Comparison of programming languages**
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages
 
-## Getting Started
+## Getting started
 
 **Developer roadmaps**
 https://roadmap.sh
@@ -37,7 +37,7 @@ https://www.geeksforgeeks.org/session-vs-token-based-authentication
 **Routing**
 https://www.geeksforgeeks.org/what-is-routing
 
-## System Design
+## System design
 
 **State management**
 https://www.geeksforgeeks.org/handling-state-and-state-management-system-design
