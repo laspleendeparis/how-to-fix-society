@@ -1,4 +1,4 @@
-1) learn to delegate: this is probably the most important thing to learn; if a task is better suited for another team member, defer the task to them (that way, you have less on YOUR plate)
+1) learn to delegate: this is probably the most important thing to learn; if a task is better suited for another team member, defer the task to them (that way, you have less on YOUR plate) or even better, is this task necessary?
 2) Figure out if a task REALLY needs to be done ASAP (is there a hard deadline? If not, push it out to another sprint (assuming you're operating in an Agile framework)
 3) identify the stakeholder(s) involved in the task: if there is leadership/upper management involved, this is a higher priority (since it might have been escalated at one point)
 4) To triage the remaining tasks, you could sort it by level of difficulty, level of time effort, and of course if there's a critical element involved (like production incident)
