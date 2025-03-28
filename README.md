@@ -13,6 +13,10 @@ https://github.com/jwq10101010/how-to-fix-society/blob/main/resources/coding-res
 For those who don't live in a post-scarcity society
 https://github.com/jwq10101010/how-to-fix-society/blob/main/guides/on-earning-a-living.md
 
+## Collaboration Framework (Federated wikis + open source auth protocols)
+For those looking to establish architecture for facilitating collaboration amongst different individuals/groups
+https://github.com/jwq10101010/collaboration-framework
+
 ## Project Collaboration Framework (PCF)
 The below project specifications section is sourced from:
 https://github.com/jwq10101010/project-collaboration-framework
