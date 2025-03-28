@@ -9,3 +9,8 @@ https://www.etfrc.com/funds/overlap.php
 
 **US Brokerage Firms**
 https://www.brokerage-review.com/online-brokers/list-stock-broker-firms.aspx
+
+## Entrepreneurship
+
+**What is entrepreneurship?**
+https://online.stanford.edu/what-is-entrepreneurship
