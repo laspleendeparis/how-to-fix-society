@@ -60,6 +60,7 @@ Feel free to do one or more of the following:
 - [x] Provide additional context
 - [x] Organize this repository's files
 - [ ] Continue with guides and recommendations
+- [ ] Consider translating to other languages
 
 **Additional Fours**:
 - @laspleendeparis
