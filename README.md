@@ -65,7 +65,7 @@ https://github.com/planet-nine-app/planet-nine
 - Or, for the lore-builders:
   (What is the minimum amount of effort required to achieve singularity?)
 - Another alternative title, where my fellow Fours at? Let's collab! We've got a lot of work to do.
-- Yet another possibility, Hitchhiker's Guide to Project Collaboration
+- Yet another possibility, Hitchhiker's Guide to (Project) Collaboration
 
 ## Appendix
 - MVP = Minimum Viable Product
