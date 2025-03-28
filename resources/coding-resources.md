@@ -62,3 +62,11 @@ https://apple.chronus.com
 
 **Free-tier comparison**
 https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison
+
+## Open source auth implementations
+
+**Go applications**
+https://github.com/markbates/goth
+
+**Rack Middleware**
+https://github.com/omniauth/omniauth
