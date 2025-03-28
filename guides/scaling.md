@@ -4,4 +4,6 @@
 There exists an upper-bound of time, resources, things in the universe
 
 Ways to mitigate this
-Appeal to higher authority (get them to help with this, maybe they can apply some parameters to limit growth)
+- Appeal to higher authority (get them to help with this, maybe they can apply some parameters to limit growth) (appeal to authority option)
+- Fight each other over resources (destructive option) side note: delegate managing of souls to higher authority, it's their problem now!
+- Figure out how to reallocate existing resources (like turning 1 excess resource to a resource that is in deficit) (reallocation option)
