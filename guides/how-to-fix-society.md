@@ -29,7 +29,8 @@ Some topics inspired by Andrew Tate
 - Raise the next generation with good moral and ethical values
 
 ### Start your own business
-- Come up with a good/product/service that your local community needs. 
+- Come up with a good/product/service that your local community needs.
+- Implement profit sharing
 
 ### Support local businesses
 - Buy from and invest in local businesses.
