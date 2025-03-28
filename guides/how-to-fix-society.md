@@ -49,10 +49,6 @@ Some topics inspired by Heresy Financial
 ### Universal basic income (UBI)
 - Inspired by Andrew Yang
 
-## Examples of collaboration
-**Vivaldi X ProtonVPN**
-https://vivaldi.com/protonvpn
-
 ### Establish cooperative businesses
 - Business or organization owned by and operated for the benefit of its members
   
@@ -61,3 +57,7 @@ https://vivaldi.com/protonvpn
   
 ### The nuclear route
 - scrap the current system and rebuild from the ground up
+
+## Examples of collaboration
+**Vivaldi X ProtonVPN**
+https://vivaldi.com/protonvpn
