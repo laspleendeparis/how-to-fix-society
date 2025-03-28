@@ -2,6 +2,8 @@
 - wiki as a sort of hive mind where one node initiates an update, and consensus is established across all other nodes (or gets forked off in order to keep track of changes, similar to how Federated Wiki works)
 - I hear there's talks of creating a hitchhiker's guide so maybe this repository could be hitchhiker's guide to project collaboration
 - Have to start thinking about how to collaborate with extraterrestrials
+- Feeling a certain energy thrumming and pulsing around me putting me in a trance as I type the words
+- At certain points when committing to the repo, the internet connection would go out briefly like a large entity made a git pull
 
 **Candidates for including in the overall Hitchhiker's Guide**
 
