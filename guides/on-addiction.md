@@ -5,3 +5,4 @@
 ## Remediation
 - Tapered approach: gradually reduce the amount over time until cure (or ar least get to manageable state)
 - Consider developing vaccine if it is a very big problem amongst whole group
+- Form support groups and help each other out
