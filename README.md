@@ -11,6 +11,8 @@ https://github.com/jwq10101010/project-collaboration-framework
 
 Feel free to tweak the PCF to fit your project (it is designed to be modular and scalable), or use a different method entirely (not all use cases require a formal definition)
 
+The core idea is around the MVP, which is the minimum amount needed to launch a project.
+
 ## Project Specifications
 
 **Project overseer(s):** @jwq10101010
