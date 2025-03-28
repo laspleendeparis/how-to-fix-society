@@ -65,6 +65,9 @@ https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison
 
 ## Open source auth implementations
 
+**Sessionless**
+https://github.com/planet-nine-app/planet-nine
+
 **Go applications**
 https://github.com/markbates/goth
 
