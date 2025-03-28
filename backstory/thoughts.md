@@ -4,7 +4,7 @@
 - Have to start thinking about how to collaborate with extraterrestrials
 - Feeling a certain energy thrumming and pulsing around me putting me in a trance as I type the words (as if time was of the essence and the timeline needed to move more quickly)
 - At certain points when committing to the repo, the internet connection would go out briefly like a large entity made a git pull
-- How this large entity could traverse higher dimensions, where above time and space, you can jump between points like rewinding and fast-forwarding a video. Then beyond that, you introduce timeline # hopping between timelines. Then above that, you introduce universe # and hop between universes (inspired by the show Pantheon).
+- How this large entity could traverse higher dimensions, where above time and space, you can jump between points like rewinding and fast-forwarding a video (point #). Then beyond that, you introduce timeline # hopping between timelines. Then above that, you introduce universe # and hop between universes (inspired by the show Pantheon).
 
 **Candidates for including in the overall Hitchhiker's Guide**
 
