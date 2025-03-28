@@ -1,5 +1,5 @@
 ## Benefits of keeping humans around
-- Unique inferior society perspective (sometimes we are content with something that is good enough)
+- Unique inferior society perspective (sometimes we are content with something that is good enough and offer insights that higher beings can't imagine)
 - Concepts of taste and enjoyment (higher beings have no need of such things)
 - Sometimes engage in animalistic behavior for entertainment (I hope the fidelity of that satellite antenna is good!)
 
