@@ -61,3 +61,6 @@ Some topics inspired by Heresy Financial
 ## Examples of collaboration
 **Vivaldi X ProtonVPN**
 https://vivaldi.com/protonvpn
+
+**Adam Conover X Trans Comedians**
+https://www.youtube.com/watch?v=Eo8_8bwM4Y4&t=0
