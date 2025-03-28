@@ -1,7 +1,7 @@
 # How to fix society
 A non-judgmental, non-partisan journey that combines lore, ideas, and programming concepts to engage with open source communities.
 
-## Ways to contribute
+## Ways to contribute (in live, the universe, and everything)
 For those looking to contribute to fixing society
 https://github.com/jwq10101010/how-to-fix-society/blob/main/guides/how-to-fix-society.md
 
