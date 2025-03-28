@@ -44,3 +44,16 @@ https://www.geeksforgeeks.org/handling-state-and-state-management-system-design
 
 **Multi-rooted hierarchical tree**
 https://www.researchgate.net/figure/A-common-multi-rooted-hierarchical-tree_fig1_220832000
+
+## Mentorship programs
+
+Take what you learn from one of these programs and develop an open source alternative
+
+**Google**
+https://buildyourfuture.withgoogle.com
+
+**Microsoft**
+https://globalmentorship.org/companies/microsoft
+
+**Apple**
+https://apple.chronus.com
