@@ -1,0 +1,1 @@
+- if we're living in a simulation, that means someone could upgrade the infrastructure to increase amount of resources
