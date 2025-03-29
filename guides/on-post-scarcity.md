@@ -21,3 +21,6 @@
 https://aws.amazon.com/architecture/well-architected
 
 https://learn.microsoft.com/en-us/azure/well-architected
+
+Ethernet router
+https://mikrotik.com/product/ccr2004_1g_2xs_pcie
