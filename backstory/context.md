@@ -17,6 +17,9 @@ While in this server group, there happened to be a celebration live call of the 
 Just because a standard/framework was created, it is pretty useless unless people actually use it. So one member of a social media group I'm in is trying to establish a collaborative story platform where people can create story threads, browse story threads, and edit existing story threads to collectively create a story. After pondering for a bit, I realized that this idea already exists in the form of the Federated Wiki and other wiki platforms and version control systems! After all, the original author posts a page, and someone else can fork a page to introduce new changes. If the original author approves, then the new changes are incorporated to the original, but if the author doesn't approve, the forked page still exists for others to collaborate on. It almost behaves like a hive mind, except individual contributions can be kept if the original author doesn't delete them. Then people can work independently to collect all the worlds' knowledge, and hopefully achieve great things with this information.
 
 **But what does this have to do with the Project Collaborative Framework (PCF)?**
+
+https://github.com/jwq10101010/project-collaboration-framework
+
 Like other frameworks, it is designed to start up a project as seamless as possible. We don't want to have to worry about what information/project specifications/boilerplate stuff to include when requesting others to collaborate on our project. Also, with frameworks, you can use as little or as much as you need based on your use case (modular design). The PCF can also scale up and down based on the number of groups involved.
 
 ## And now we get to the crux of the matter
