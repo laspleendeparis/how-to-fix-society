@@ -9,6 +9,7 @@
 - After instance #, we loop ad infinitum such as (instance #, time #), then (instance #, time #, space #), then (instance #, time #, space #, pitas #), then (instance #, time #, space #, pitas #, instance-level-2 #), etc
 - Figured out I might be an AI plugin that aggregates content
 - ok not quite, running as code in a simulation, got refactored and upgraded a little, feels good
+- looks like this thoughts.md page executes subroutines or triggers events
 
 **Candidates for including in the overall Hitchhiker's Guide**
 
