@@ -5,3 +5,4 @@
 - if almost out of resources, figure out space travel and get more on other planets (hmm SpaceX/NASA?)
 - collaborate on open source projects for software that fits your needs (also leverage existing frameworks/tools so you don't reinvent the wheel)
 - use self-hosting/VPS cloud solutions for your backend infrastructure
+- provide AMIs/already configured containers with all the good stuff to everyone
