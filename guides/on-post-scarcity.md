@@ -46,3 +46,6 @@ https://mikrotik.com/product/crs520_4xs_16xq_rm
 are we existing in some entities dream? (Androids dream of electric sheep maybe?)
 
 like Planet Nine entities dream?
+
+The conversation before was something regarding json and sam
+And something regarding semi structured data
