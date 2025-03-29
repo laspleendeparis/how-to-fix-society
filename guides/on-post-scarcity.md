@@ -59,3 +59,6 @@ do you know which is which without clicking <:var:642125584444686356>
 i dont even use them 😂 , i use it in finder
 they just let me know that everything is synced up
 fr tho you should try stage manager
+
+Do aws recruiters misspell their company name TWICE?
+https://cdn.discordapp.com/attachments/244230771232079873/1355585261542576240/IMG_4777.png
