@@ -36,3 +36,5 @@ https://mikrotik.com/product/crs310_8g_2s_in
 https://mikrotik.com/product/crs304_4xg_in
 
 https://mikrotik.com/product/crs504_4xq_in
+
+https://mikrotik.com/product/crs520_4xs_16xq_rm
