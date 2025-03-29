@@ -62,3 +62,7 @@ fr tho you should try stage manager
 
 Do aws recruiters misspell their company name TWICE?
 https://cdn.discordapp.com/attachments/244230771232079873/1355585261542576240/IMG_4777.png
+
+Is that a legit domain
+Idk do they own a .jobs domain
+
