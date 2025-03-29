@@ -44,3 +44,5 @@ sorry guys im limited by time and space, use the n+1 space/dimension to collabor
 https://mikrotik.com/product/crs520_4xs_16xq_rm
 
 are we existing in some entities dream? (Androids dream of electric sheep maybe?)
+
+like Planet Nine entities dream?
