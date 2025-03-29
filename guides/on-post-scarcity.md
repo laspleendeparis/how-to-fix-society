@@ -1,1 +1,2 @@
 - if we're living in a simulation, that means someone could upgrade the infrastructure to increase amount of resources
+- have debt? just print more money (like how Fed Reserve operates)
