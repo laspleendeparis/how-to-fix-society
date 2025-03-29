@@ -9,3 +9,4 @@ There exists an upper-bound of time, resources, things in the universe
 - Delegate managing of souls to higher authority, it's their problem now! (delegation option) - some groups champion the idea of martyrship like the Vikings and the idea of glory like the Spartans
 - Figure out how to reallocate existing resources (like turning 1 excess resource to a resource that is in deficit) (reallocation option)
 - Break into higher dimension and modify the parameters ourselves, overthrow the rulers/deities (anarchy option)
+- Upgrade infrastructure to increase amount of available resources (scaling option)
