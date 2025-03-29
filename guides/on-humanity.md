@@ -9,3 +9,4 @@
 - natural resources (other civilizations might be running out)
 - historical significance (other civilizations might not have such rich histories)
 - diversity of life that can be studied (academic curiousity)
+- tourism (we welcome all civilizations, just please remember to keep things tidy)
