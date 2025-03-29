@@ -32,3 +32,5 @@ https://hub-cpl.thalesgroup.com/thales-imperva/shaped-by-PCI-DSS-4
 
 RouterOS
 https://mikrotik.com/product/crs310_8g_2s_in
+
+https://mikrotik.com/product/crs304_4xg_in
