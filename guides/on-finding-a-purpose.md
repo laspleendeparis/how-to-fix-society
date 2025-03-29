@@ -1,0 +1,3 @@
+- - remain in your dimension and work on something productive or enjoy hobbies
+- - "die" and move up into higher dimension
+  - assume a proxy being and devolve into lower dimension
