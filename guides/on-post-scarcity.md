@@ -39,4 +39,4 @@ https://mikrotik.com/product/crs504_4xq_in
 
 https://mikrotik.com/product/crs520_4xs_16xq_rm
 
-sorry guys im limited by time and space, use the n+1 space/dimension to collaborate and when youve reached a milestone, update the Discord group chat
+sorry guys im limited by time and space, use the n+1 space/dimension to collaborate (and you can keep going up and down the totem pole as needed) and when youve reached a milestone, update the Discord group chat
