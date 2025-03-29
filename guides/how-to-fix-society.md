@@ -64,3 +64,7 @@ https://vivaldi.com/protonvpn
 
 **Adam Conover X Trans Comedians**
 https://www.youtube.com/watch?v=Eo8_8bwM4Y4&t=0
+
+**X X XAI**
+Self-referential, never thought that way
+https://arstechnica.com/tech-policy/2025/03/elon-musks-x-has-a-new-owner-elon-musks-xai
