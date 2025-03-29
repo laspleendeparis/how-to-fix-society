@@ -58,6 +58,23 @@ Some topics inspired by Heresy Financial
 ### The nuclear route
 - scrap the current system and rebuild from the ground up
 
+### Support Marginalized Communities
+
+Even in the (semi-)developed world, institutionalized inequality is written in the law. One such example is discrimination based on sexual orientation. Currently, some but not all developed countries recognize same-sex couples on some level, and recently there has been growth in this area. But we still have a long way to go.
+
+| Jurisdiction | Current Status | Goal |
+|---|---|---|
+| Navajo Nation | Civil unions are unrecognized. Marriage is banned. | Turn that bill into law.  In 2023, a bill was passed to repeal the marriage ban and has passed initial proceedings. |
+| Serbia | Marriage is defined as being between a man and a woman.| Recognize civil unions. |
+| Cyprus | Civil unions are recognized. | Recognize marriage. |
+| Israel | Marriage only performed in Tel Aviv. Marriage is recognized if performed in a foreign jurisdiction. | Perform marriage everywhere. |
+| Iran | Male: punishable by death. Female: punishable by 100 lashes, or by death on her fourth offense. | Revoke the death penalty. |
+| United Arab Emirates   | Minimum 6 months in prison. Prosecuted only on complaint of a husband or male legal guardian. Illegal to campaign. | Reduce minimum prison sentence to 3 months and maximum to 11 years. Legalize campaigning. |
+| China | Recognizes legal guardianship. | Recognize civil unions. |
+| Singapore | Doesn't recognize marriage or civil unions. | Recognize civil unions. |
+| Hong Kong | Couples are afforded limited legal rights. | Recognize civil unions. |
+| South Korea | Offers spousal support to couples, such as health insurance. | Recognize civil unions. |
+
 ## Examples of collaboration
 **Vivaldi X ProtonVPN**
 https://vivaldi.com/protonvpn
