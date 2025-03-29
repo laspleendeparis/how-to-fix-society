@@ -27,3 +27,5 @@ https://mikrotik.com/product/ccr2004_1g_2xs_pcie
 
 Figure out faster PCIe / other standard
 https://hub-cpl.thalesgroup.com/thales-imperva/shaped-by-PCI-DSS-4
+
+- Implement rate limiting / throttling
