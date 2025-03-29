@@ -38,3 +38,5 @@ https://mikrotik.com/product/crs304_4xg_in
 https://mikrotik.com/product/crs504_4xq_in
 
 https://mikrotik.com/product/crs520_4xs_16xq_rm
+
+sorry guys im limited by time and space, use the n+1 space to collaborate and when youve reached a milestone, update the Discord group chat
