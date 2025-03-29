@@ -9,6 +9,9 @@ https://github.com/jwq10101010/how-to-fix-society/blob/main/guides/how-to-fix-so
 For those who need some guidance on their development journey
 https://github.com/jwq10101010/how-to-fix-society/blob/main/resources/coding-resources.md
 
+Beginner languages
+https://theprogrammershangout.com/rules#opinions-for-beginner-languages
+
 ## Earning a living
 For those who don't live in a post-scarcity society
 https://github.com/jwq10101010/how-to-fix-society/blob/main/guides/on-earning-a-living.md
