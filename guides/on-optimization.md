@@ -1,3 +1,5 @@
+Are we all just code sitting in an isolated server somewhere?
+
 ## Notes
 - Consolidate similar things
 - Refactor
