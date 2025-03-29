@@ -13,3 +13,4 @@
 - add plugin ecosystem to add functionalities
 - for networking, crack the speed of light (beyond fiber optics)
 - decrease latency by establishing edge locations (think CloudFront)
+- enable redundacy for disaster recovery
