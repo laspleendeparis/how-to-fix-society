@@ -4,3 +4,4 @@
   https://github.com/jwq10101010/how-to-fix-society/blob/main/guides/on-earning-a-living.md
 - if almost out of resources, figure out space travel and get more on other planets (hmm SpaceX/NASA?)
 - collaborate on open source projects for software that fits your needs (also leverage existing frameworks/tools so you don't reinvent the wheel)
+- use self-hosting/VPS cloud solutions for your backend infrastructure
