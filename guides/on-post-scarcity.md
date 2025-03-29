@@ -29,3 +29,6 @@ Figure out faster PCIe / other standard
 https://hub-cpl.thalesgroup.com/thales-imperva/shaped-by-PCI-DSS-4
 
 - Implement rate limiting / throttling
+
+RouterOS
+https://mikrotik.com/product/crs310_8g_2s_in
