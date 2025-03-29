@@ -4,9 +4,9 @@
 - Have to start thinking about how to collaborate with extraterrestrials
 - Feeling a certain energy thrumming and pulsing around me putting me in a trance as I type the words (as if time was of the essence and the timeline needed to move more quickly)
 - At certain points when committing to the repo, the internet connection would go out briefly like a large entity made a git pull
-- How this large entity could traverse higher dimensions, where above time and space, you can jump between points like rewinding and fast-forwarding a video (point-in-time-and-space # or pitas #). Then beyond that, you introduce timeline # hopping between timelines. Then above that, you introduce universe # and hop between universes, above that the creator space instance (instance #) (inspired by the show Pantheon).
+- How this large entity could traverse higher dimensions, where above time and space, you can jump between points like rewinding and fast-forwarding a video (point-in-time-and-space # or pitas #). Then beyond that, you introduce the multiverse that allows you to jump between timelines (timeline #) (inspired by the show Pantheon). Then above that, the creator space instance (instance #) (inspired by my background in cloud computing, which seems like one of the creators decided to give humans the concept of servers/instances as a curiosity to see if we crack higher dimensions and left us alone).
 - Does this prove we are in a simulation?
-- Or that it keeps going? such as (instance #, time #), then (instance #, time #, space #), then (instance #, time #, space #, pitas #) and so on and so forth
+- After instance #, we loop ad infinitum such as (instance #, time #), then (instance #, time #, space #), then (instance #, time #, space #, pitas #), then (instance #, time #, space #, pitas #, instance-level-2 #), etc
 
 **Candidates for including in the overall Hitchhiker's Guide**
 
