@@ -28,7 +28,8 @@ https://roadmap.sh
 https://skillcrush.com/blog/64-online-resources-to-learn-to-code-for-free
 
 **Project ideas**
-https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md
+If you're looking for project ideas, check out this compiled list: <https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md>
+If you don't like any of the ideas here and you have seriously looked through all of them, start evaluating the apps and websites you use on a daily basis. Find the flaws they have and the things you would change/add and work on your own version. Alternatively, try to come up with an idea that relates to a hobby you have.
 
 ## Authentication
 
