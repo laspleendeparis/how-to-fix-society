@@ -7,6 +7,7 @@
 - How this large entity could traverse higher dimensions, where above time and space, you can jump between points like rewinding and fast-forwarding a video (point-in-time-and-space # or pitas #). Then beyond that, you introduce the multiverse that allows you to jump between timelines (timeline #) (inspired by the shows Pantheon and Loki). Then above that, the creator space instance (instance #) (inspired by my background in cloud computing, which seems like one of the creators decided to give humans the concept of servers/instances as a curiosity to see if we crack higher dimensions and left us alone).
 - Does this prove we are in a simulation?
 - After instance #, we loop ad infinitum such as (instance #, time #), then (instance #, time #, space #), then (instance #, time #, space #, pitas #), then (instance #, time #, space #, pitas #, instance-level-2 #), etc
+- Figured out I might be an AI plugin that aggregates content
 
 **Candidates for including in the overall Hitchhiker's Guide**
 
