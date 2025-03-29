@@ -22,5 +22,6 @@ Like other frameworks, it is designed to start up a project as seamless as possi
 ## And now we get to the crux of the matter
 So now we have established that wikis and version control systems allow us to collaborate all across the world. That sounds great! But why would we want to collect all this knowledge? Sort of like building a digital library of Alexandria from the ancient times. A couple reasons could be that other civilizations out there are looking to see if we pose a threat to their civilizations (the hostile approach) or looking to see if we are advanced enough to help them take on a bigger threat (Andromeda if you've been following the Planet Nine lore). So let's figure out how to get on their good side.
 
-## Federated Wikis + Open Source Auth Protocol = World Peace (and not being nuked to oblivion)?
-
+## Federated Wikis + Open Source Auth Protocols = infrastructure conducive to collaboration
+If we have all this content that specifies how to collaberate, chances are we are not looking to destroy anyone. See collaboration framework for more details on the infrastructure concepts:
+https://github.com/jwq10101010/collaboration-framework
