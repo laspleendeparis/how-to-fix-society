@@ -15,3 +15,4 @@
 - decrease latency by establishing edge locations (think CloudFront)
 - enable redundacy for disaster recovery
 - establish multiple ISPs/hosted zones for DNS routing?? (think Route 53)
+- implement VPC technology
