@@ -11,3 +11,4 @@
 - develop CI/CD pipeline with infra as code files
 - have modular decoupled architecture (microservices) with auto-scaling groups and load balancers
 - add plugin ecosystem to add functionalities
+- for networking, crack the speed of light (beyond fiber optics)
