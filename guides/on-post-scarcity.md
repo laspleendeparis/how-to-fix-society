@@ -7,3 +7,4 @@
 - use self-hosting/VPS cloud solutions for your backend infrastructure
 - provide AMIs/already configured containers with all the good stuff to everyone
 - provide distribution format / marketplace for the AMIs
+- the secret is to mount the codebase and run watch mode inside the container, IDE devs against the machine (idk what this means)
