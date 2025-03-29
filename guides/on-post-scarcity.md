@@ -49,3 +49,13 @@ like Planet Nine entities dream?
 
 The conversation before was something regarding json and sam
 And something regarding semi structured data
+
+I like how you have 2 onedrive menubar items lol
+yeah school and personal
+gotta make backups yk
+
+do you know which is which without clicking <:var:642125584444686356>
+
+i dont even use them 😂 , i use it in finder
+they just let me know that everything is synced up
+fr tho you should try stage manager
