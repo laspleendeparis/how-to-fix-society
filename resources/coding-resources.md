@@ -27,6 +27,9 @@ https://roadmap.sh
 **Free online resources**
 https://skillcrush.com/blog/64-online-resources-to-learn-to-code-for-free
 
+**Project ideas**
+https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md
+
 ## Authentication
 
 **Session/token based authentication**
