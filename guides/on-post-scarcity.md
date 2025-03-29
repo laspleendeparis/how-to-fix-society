@@ -9,4 +9,4 @@
 - provide distribution format / marketplace for the AMIs
 - the secret is to mount the codebase and run watch mode inside the container, IDE devs against the machine (idk what this means)
 - develop CI/CD pipeline with infra as code files
-- have modular decoupled architecture (microservices)
+- have modular decoupled architecture (microservices) with auto-scaling groups and load balancers
