@@ -16,3 +16,6 @@
 - enable redundacy for disaster recovery
 - establish multiple ISPs/hosted zones for DNS routing?? (think Route 53)
 - implement VPC technology
+- honestly just read the AWS well-architected framework
+
+https://aws.amazon.com/architecture/well-architected
