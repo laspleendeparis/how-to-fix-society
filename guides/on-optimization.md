@@ -1,1 +1,3 @@
-placeholder
+## Notes
+- Consolidate similar things
+- 
