@@ -8,3 +8,5 @@ encode message as succinct as possible
 **For 2d encode in morse code**
 
 **For 1d dot and absense of dot**
+
+**For null space, the existence and absence of the soul**
