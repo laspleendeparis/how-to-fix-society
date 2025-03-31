@@ -7,3 +7,5 @@ preferably as succinct as possible
 
 2d now has to figure out how to send instructions to 1d
 present some way of 0s and 1s for encoding instructions
+
+1d - dot and absense of dot
