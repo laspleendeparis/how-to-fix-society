@@ -5,5 +5,3 @@ cache + distributed networking + scaling (for more complex tasks, introduce more
 preferably as succinct as possible
 
 2d now has to figure out how to send instructions to 1d
-
-soul has to die to move up
