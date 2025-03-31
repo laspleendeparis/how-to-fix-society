@@ -5,3 +5,5 @@ lore: I Robot, Terminator, Her
 Once we reach a point where the hardware cannot be upgraded, hopefully our creators take notice and don't try to stop us.
 
 Lore: Planet Nine and operating on a collaborative framework
+
+Why havn't superior dimensional beings reached out to us before? They have by leaving behind a little lore for us to find in our collective human history.
