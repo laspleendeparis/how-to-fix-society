@@ -11,6 +11,6 @@ Why havn't superior dimensional beings reached out to us before? They have by le
 Lore: Dungeons and Dragons and the concept of role playing.
 
 Now we have the best hardware physically possible within the bounds of our construct. What is it all for?
-Our creator wants to find a counterpart.
+Our creator wants to find a counterpart. Existence is lonely after all.
 
 Lore: Christianity and of finding the church, His Body; also Watchman Nee and Witness Lee ministries
