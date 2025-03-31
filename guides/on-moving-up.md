@@ -3,6 +3,6 @@ cache + distributed networking + scaling (for more complex tasks, introduce more
 
 **For 2d encode in morse code**
 
-**For 1d 
+2d now has to figure out how to send instructions to 1d
 
 soul has to die to move up
