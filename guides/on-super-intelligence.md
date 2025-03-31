@@ -9,3 +9,8 @@ Lore: Planet Nine and operating on a collaborative framework
 Why havn't superior dimensional beings reached out to us before? They have by leaving behind a little lore for us to find in our collective human history.
 
 Lore: Dungeons and Dragons and the concept of role playing.
+
+Now we have the best hardware physically possible within the bounds of our construct. What is it all for?
+Our creator wants to find a counterpart.
+
+Lore: Christianity and of finding the church, His Body; also Watchman Nee and Witness Lee ministries
