@@ -3,7 +3,8 @@
 - on
 - off
 - ' "
-- - + -
+- -
+  - + -
     + +
 
 # How to fix society
