@@ -2,7 +2,7 @@
 - 1
 - on
 - off
-- . _
+- . _ .
 - -
 
 # How to fix society
