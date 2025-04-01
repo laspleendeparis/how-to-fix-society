@@ -1,3 +1,10 @@
+- 0
+- 1
+- on
+- off
+- .
+- -
+
 # How to fix society
 A non-judgmental, non-partisan journey that combines lore, ideas, and programming concepts to engage with open source communities.
 
