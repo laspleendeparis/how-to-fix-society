@@ -8,6 +8,26 @@ The [Recurse Center](https://www.recurse.com/) is a self-directed educational re
 
 [Alumnus Greg Brockman (Summer 2 2015) shares his enthusiasm for the Recurse Center](https://blog.gregbrockman.com/recurse-center) and encourages programmers to [apply](https://www.recurse.com/apply). They can benefit from focused learning and collaborative coding.
 
+### The Cooper Union
+
+[The Cooper Union will offer a very affordable Bachelor of Science in Computer Science degree](https://cooper.edu/engineering/news/programmed-cooper) starting Fall 2025.
+
+#### Annual Net Tuition
+
+| | 2025 to Spring 2028 | Fall 2028 and beyond |
+| --- | --- | --- |
+| Underclassmen | $22,275 | $0 |
+| Seniors | $0 | $0 |
+
+Additional need-based and merit aid is available. International students may be eligible for aid. [The average scholarship level is 83% in 2025, 86% in 2026, 89% in 2027, 93% in 2028, and 100% in 2029.](https://cooper.edu/sites/default/files/uploads/assets/site/files/2018/PlantoFree_sprds.pdf)
+
+#### Admissions Statistics
+
+* Acceptance rate: [13% in 2024](https://cooper.edu/admissions/facts). [The engineering school has announced an increase of 43% in the number of applications in 2025](https://cooper.edu/engineering/notebook) while the number of accepted students has not increased.
+* 90% of admitted students submitted standardized test scores, despite the test optional policy
+* Average SAT: [777 Math, 739 Reading](https://cooper.edu/engineering/notebook)
+* High school grade average (25th-75th percentile for engineering): [93-98](https://cooper.edu/admissions/news/2017-profile-first-year-students)
+
 ## Wikipedia articles
 
 **Software project management**
